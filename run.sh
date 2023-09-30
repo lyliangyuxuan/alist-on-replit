@@ -1,5 +1,5 @@
 echo "Alist一键搭建脚本"
-echo "脚本作者：舒夏"
+echo "脚本作者：梁雨轩"
 echo "GitHub开源地址：https://github.com/sxbai/alist-on-replit"
 nix-env -iA nixpkgs.wget
 mkdir build
